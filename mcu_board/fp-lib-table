@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name footprints)(type KiCad)(uri "/media/v/Win/kicad stuff/kicad projects/CNCdrive/footprints.pretty")(options "")(descr ""))
+)
