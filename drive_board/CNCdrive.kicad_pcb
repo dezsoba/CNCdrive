@@ -3,7 +3,7 @@
   (general
     (links 165)
     (no_connects 139)
-    (area 0 0 0 0)
+    (area 19 16 121.680002 73.57)
     (thickness 1.6)
     (drawings 0)
     (tracks 0)
@@ -2447,7 +2447,7 @@
   )
 
   (module Terminal_Blocks:TerminalBlock_Pheonix_PT-3.5mm_4pol (layer F.Cu) (tedit 56301633) (tstamp 56E2E31C)
-    (at 21.5 50)
+    (at 21 53)
     (descr "4-way 3.5mm pitch terminal block, Phoenix PT series")
     (path /56D154D1)
     (fp_text reference P3 (at 5.25 -4.3) (layer F.SilkS)
